@@ -63,6 +63,9 @@
         "editor.indent_guide": "#363944",
         "editor.indent_guide_active": "#414550",
 
+        "hint": "#969696",
+        "hint.background": "#3a403b",
+
         "terminal.background": "#2c2e34",
         "terminal.foreground": "#e2e2e3",
         "terminal.ansi.black": "#414550",
@@ -228,6 +231,9 @@
         "editor.find_match_highlight_background": "#baa0f840",
         "editor.indent_guide": "#353f46",
         "editor.indent_guide_active": "#414b53",
+
+        "hint": "#8a9199",
+        "hint.background": "#353f46",
 
         "terminal.background": "#273136",
         "terminal.foreground": "#e1e2e3",
@@ -395,6 +401,9 @@
         "editor.indent_guide": "#3b383e",
         "editor.indent_guide_active": "#49464e",
 
+        "hint": "#949094",
+        "hint.background": "#3b383e",
+
         "terminal.background": "#2d2a2e",
         "terminal.foreground": "#e3e1e4",
         "terminal.ansi.black": "#49464e",
@@ -560,6 +569,9 @@
         "editor.find_match_highlight_background": "#ba9cf340",
         "editor.indent_guide": "#373c4b",
         "editor.indent_guide_active": "#424b5b",
+
+        "hint": "#8f97a6",
+        "hint.background": "#373c4b",
 
         "terminal.background": "#2a2f38",
         "terminal.foreground": "#e1e3e4",
@@ -727,6 +739,9 @@
         "editor.indent_guide": "#90817b",
         "editor.indent_guide_active": "#4e433f",
 
+        "hint": "#968985",
+        "hint.background": "#3f352f",
+
         "terminal.background": "#312c2b",
         "terminal.foreground": "#e4e3e1",
         "terminal.ansi.black": "#4e433f",
@@ -892,6 +907,9 @@
         "editor.find_match_highlight_background": "#b39df340",
         "editor.indent_guide": "#b4a7bf",
         "editor.indent_guide_active": "#503f5f",
+
+        "hint": "#9a8ea4",
+        "hint.background": "#3b3446",
 
         "terminal.background": "#2d293e",
         "terminal.foreground": "#e4e3e1",
